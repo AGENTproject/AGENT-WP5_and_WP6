@@ -1,7 +1,7 @@
-## AGENT - WP5 and WP6 repository
+# AGENT - WP5 and WP6 repository
 The repository serves the purpose of joint development and a sharing platform amongst the workpackage 5 and 6 in the **AGENT** project. 
 
-### Workpackage 5:
+## Workpackage 5:
 #### Objectives of Workpackage 5: 
 - O5.1: Develop and implement guidelines and formats for data production, exchange and representation.
 - O5.2: Support a FAIR data federation for wheat/barley GenRes.
@@ -19,7 +19,7 @@ The repository serves the purpose of joint development and a sharing platform am
 | D5.2 | Extended submission format for EURISCO                | 9-WR              | R | PU | 36 |
 | D5.3 | AGENT integrated data workflow<br /> developed and deployed | 16-INRAE          | R | PU | 48 |
 
-### Workpackage 6:
+## Workpackage 6:
 #### Objectives of Workpackage 6: 
 - O6.1: Develop an infrastructure to manage and analyse genotypic and phenotypic data.
 - O6.2: Support the active, integrated management of genetic resources (GenRes) by genebanks (GB).
