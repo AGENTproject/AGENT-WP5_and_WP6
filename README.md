@@ -13,11 +13,11 @@ The repository serves the purpose of joint development and a sharing platform am
 - Task 5.3: Facilitating data curation and exchange of data compliant with the FAIR principles in AGENT’s data infrastructure.
 
 #### Deliverables of Workpackage 5: 
-| No   | Brief description                                     |  Lead<br /> Participant |  Type |  Dissemination level | Delivery date |
+| No   | Brief description                                     |  Lead Participant |  Type |  Dissemination level | Delivery date |
 |------|:-----------------------------------------------------|------------------|------|---------------------|--------------|
 | D5.1 | Final guidelines for dataflow                         | 1-IPK             | R | PU | 18 |
 | D5.2 | Extended submission format for EURISCO                | 9-WR              | R | PU | 36 |
-| D5.3 | AGENT integrated data workflow<br /> developed and deployed | 16-INRAE          | R | PU | 48 |
+| D5.3 | AGENT integrated data workflow developed and deployed | 16-INRAE          | R | PU | 48 |
 
 ## Workpackage 6:
 #### Objectives of Workpackage 6: 
@@ -32,11 +32,11 @@ The repository serves the purpose of joint development and a sharing platform am
 - Task 6.3: Enhancement of EURISCO with new tools for data discovery and visualization.
 
 #### Deliverables of Workpackage 6: 
-| No   | Brief description                                     |  Lead<br /> Participant |  Type |  Dissemination level | Delivery date |
+| No   | Brief description                                     |  Lead Participant |  Type |  Dissemination level | Delivery date |
 |------|:-----------------------------------------------------|------------------|------|---------------------|--------------|
 | D6.1 |Data Management Plan (DMP)                        | 1-IPK             | ORDP | CO | 6 |
-| D6.2 | AGENT database infrastructure designed, <br />tested and deployed               | 1-IPK  | OTHER | CO | 18 |
-| D6.3 | Containerised pipeline for data analysis <br /> implemented, tested and deployed | 9-WR         | OTHER | CO | 24 |
-| D6.4 | ADiscovery and retrieval of genomic and phenotypic<br /> data possible through EURISCO and additional search interfaces | 16-INRAE          | DEC | CO | 24 |
-| D6.5 | Final release of the AGENT data platform, including<br /> tools for data management, analysis, prediction, <br />visualisation and access | 17-RGBK          | DEC | CO | 60 |
+| D6.2 | AGENT database infrastructure designed, tested and deployed               | 1-IPK  | OTHER | CO | 18 |
+| D6.3 | Containerised pipeline for data analysis implemented, tested and deployed | 9-WR         | OTHER | CO | 24 |
+| D6.4 | ADiscovery and retrieval of genomic and phenotypic data possible through EURISCO and additional search interfaces | 16-INRAE          | DEC | CO | 24 |
+| D6.5 | Final release of the AGENT data platform, including tools for data management, analysis, prediction, <br />visualisation and access | 17-RGBK          | DEC | CO | 60 |
 
